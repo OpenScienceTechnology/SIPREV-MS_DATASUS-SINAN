@@ -32,6 +32,14 @@ O objetivo central é apoiar estudos acadêmicos, diagnósticos territoriais, an
 
 ---
 
+## 🗂️ Repositório
+
+```text
+https://github.com/OpenScienceTechnology/Microdados_SINAN-DATASUS
+```
+
+---
+
 ## 🎯 Objetivos
 
 ### Objetivo Geral
