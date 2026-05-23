@@ -1,14 +1,16 @@
-# ============================================================
+# =============================📖 BEGIN Header 📝=============================
 # SIPREV-Mulher/MS
 # Sistema Inteligente de Predição e Mapeamento da
 # Violência contra a Mulher em Mato Grosso do Sul
-# ============================================================
-# Disciplina : Tópicos Interdisciplinares III
+# 📝 Large Language Model (LLM)
+# 🧠 Neural networks, Machine learning, and Deep machine learning
+# =============================================================================
+# Disciplina : 📚 Tópicos Interdisciplinares III
 # Curso      : Ciência dos Dados — UFMS Digital
 # Semestre   : 2026.1
 # Autor      : VIANA
 # Fonte dados: SINAN/DATASUS — OpenScienceTechnology/GitHub
-# ============================================================
+# =============================📝 END Footer 📄=============================
 
 # %% [markdown]
 # # 🛡️ SIPREV-Mulher/MS
